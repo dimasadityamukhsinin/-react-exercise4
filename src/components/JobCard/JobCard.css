@@ -1,0 +1,30 @@
+.conJobCard {
+    margin-top: 85px;
+}
+
+.jobCard {
+    border-bottom: 1px solid rgb(230, 230, 230);
+}
+
+.jobCard a {
+    color: rgb(229, 10, 19);
+}
+
+.jobCard h4 {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.jobCard ul {
+    list-style: none;
+    margin-left: -40px;
+}
+
+.jobCard svg {
+    width: 0.69rem;
+    height: 0.94rem;
+    display: inline-block;
+    margin-right: 0.63rem;
+    margin-left: 0.19rem;
+    position: relative;
+}

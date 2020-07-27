@@ -1,0 +1,58 @@
+.button {
+    all: initial;
+    font: inherit;
+    display: inline-flex;
+    visibility: inherit;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: left;
+}
+
+.spanButton {
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    align-content: center;
+    position: relative;
+    flex: 1;
+}
+
+.divButton {
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border-radius: 0;
+    font-weight: 500;
+    font-size: 0.81rem;
+    padding-left: 1.13rem;
+    padding-right: 2.25rem;
+    border-color: #e50914;
+    border-style: solid;
+    text-transform: uppercase;
+    position: relative;
+    background: #e50914;
+    border-width: 0;
+    color: #ffffff;
+    line-height: 1.32;
+    text-align: left;
+    padding-top: 0.63rem;
+    padding-bottom: 0.63rem;
+}
+
+.divButton span {
+    text-decoration: none;
+}
+
+.divButton svg {
+    width: 0.81rem;
+    height: 0.81rem;
+    top: 36%;
+    fill: white;
+    display: inline-block;
+    right: 1.13rem;
+    position: absolute;
+}
+
+a:hover {
+    text-decoration: none;
+}

@@ -1,0 +1,29 @@
+footer h5 {
+    font-size: 0.88rem;
+}
+
+footer span {
+    color: #e50914;
+}
+
+footer svg {
+    width: 2.13rem;
+    height: 2.13rem;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer .impactbyte {
+    font-size: 14px;
+    font-weight: 500;
+    color: #221F1F;
+}
+
+.item-footer {
+    color: #696868;
+    font-weight: 300;
+    font-size: 1rem;
+    font-size: 14px;
+}
