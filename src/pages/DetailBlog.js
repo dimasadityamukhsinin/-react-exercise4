@@ -16,7 +16,7 @@ const DetailBlog = ( ) => {
     ];
 
     let testdata = "";
-    dataBlog.map((data) => 
+    dataBlog.forEach((data) => 
         {
             if(data.title === titleBlog) {
                 testdata = 
